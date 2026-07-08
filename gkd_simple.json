@@ -1,10 +1,10 @@
 {
-  "id": 825,
-  "name": "AdproのGKD订阅 - 精简版",
-  "version": 90,
-  "author": "Adpro(AdproTeam)",
-  "checkUpdateUrl": "./Adpro_gkd.version.json5",
-  "supportUri": "https://github.com/Adpro-Team/GKD_subscription/issues",
+  "id": 9981,
+  "name": "GKD订阅 - 精简版",
+  "version": 1,
+  "author": "wh",
+  "checkUpdateUrl": "./wh_gkd.version.json5",
+  "supportUri": "https://github.com/World-Homeostasis/gkd_subscription/issues",
   "categories": [
     {
       "key": 0,
